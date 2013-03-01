@@ -4,8 +4,10 @@
 # Data Analysis Assignment 1  
 # ------------------------------
 # Giles Martin, February 2013
+# Would have liked to have done .rdm file but what can you do?
 
 library(stringr)
+library(psych)
 
 
 # read in loansData.rda
